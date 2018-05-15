@@ -1,0 +1,50 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "微軟正黑體", "Microsoft JhengHei", sans-serif;
+  background: url('../images/skulls.png');
+}
+
+.image-container {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px;
+  width: 600px;
+
+  > * {
+    margin: 10px;
+  }
+
+  .title {
+    font-size: 3em;
+    font-weight: bold;
+  }
+  
+  img {
+    width: 400px;
+  }
+
+  .actions {
+    margin-top: 20px;
+    font-size: 2.25em;
+    white-space: pre;
+  }
+
+  .result {
+    margin-top: 30px;
+    font-size: 2.25em;
+    white-space: pre;
+  }
+}
+
+.convert-button {
+  margin-top: 20px;
+
+  button {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+}
