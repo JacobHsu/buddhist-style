@@ -24,6 +24,8 @@ package.json
 [webpack-dev-server](https://github.com/webpack/webpack-dev-server)  
 `npm run start:dev`  
 
+`$ git subtree push --prefix dist origin gh-pages`  
+
 ### Reference
 
 [Babel Loader](https://github.com/babel/babel-loader)   
