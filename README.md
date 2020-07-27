@@ -32,3 +32,4 @@ package.json
 [html2canvas](https://html2canvas.hertzen.com/) - Screenshots with JavaScript  
 [FileSaver.js](https://github.com/eligrey/FileSaver.js/)  An HTML5 saveAs() FileSaver implementation  
 [buddha-style](https://github.com/ShawTim/buddha-style)    
+[Can't apply border radius to canvas (html2canvas)](https://stackoverflow.com/questions/28276179/cant-apply-border-radius-to-canvas-html2canvas)
